@@ -1,0 +1,19 @@
+[
+  "test_session_5.py::test_readme_exists",
+  "test_session_5.py::test_readme_contents",
+  "test_session_5.py::test_readme_proper_description",
+  "test_session_5.py::test_readme_file_for_formatting",
+  "test_session_5.py::test_indentations",
+  "test_session_5.py::test_function_name_had_cap_letter",
+  "test_session_5.py::test_all_functions_implemented",
+  "test_session_5.py::test_decimal_used_or_not",
+  "test_session_5.py::test_function_squared_power_list",
+  "test_session_5.py::test_function_squared_power_list_for_float_start_stop",
+  "test_session_5.py::test_function_squared_power_list_for_start_stop",
+  "test_session_5.py::test_function_polygon_area_for_square",
+  "test_session_5.py::test_function_polygon_area_for_hexagon",
+  "test_session_5.py::test_function_polygon_area_invalid_length",
+  "test_session_5.py::test_function_polygon_area_larger_sides",
+  "test_session_5.py::test_function_polygon_area_negative_sides",
+  "test_session_5.py::test_function_speed_converter_raise_error_distance"
+]
