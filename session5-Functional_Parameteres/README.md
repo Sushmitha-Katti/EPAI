@@ -1,5 +1,5 @@
 
-> Workflow is setup in EPAI folder. Go back to see the actions
+> Workflow is setup in EPAI folder. Go back to EPAI see the actions file
 # Functional Parameters
 This session was all about Functional Paramenters. Type of parameters, way of passing them. 
 About *args, **quargs.
